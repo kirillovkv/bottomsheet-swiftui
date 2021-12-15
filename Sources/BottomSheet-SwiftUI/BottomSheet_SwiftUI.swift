@@ -14,7 +14,7 @@ public struct BottomSheetConfig {
     }
     
     public init(
-        minHeightRatio: CGFloat = 0.2,
+        minHeightRatio: CGFloat = 0.1,
         maxHeight: CGFloat = 300,
         radius: CGFloat = 20,
         indicatorSize: CGSize = CGSize(width: 100, height: 5),
